@@ -1,8 +1,8 @@
 import React from 'react'
-import "./testimonials.css"
+import "./testimonial.css"
 const Testimonial = () => {
   return (
-    <div>Testimonial</div>
+    <section id='testimonial'>Testimonial</section>
   )
 }
 
